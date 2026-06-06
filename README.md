@@ -16,3 +16,4 @@ Développée en équipe de 6 dans le cadre du cours LOG3900 à Polytechnique Mon
 - Création de lobbies pour jouer avec des amis ou des inconnus
 - Mode spectateur : les autres joueurs peuvent observer vos parties en direct
 
+Date: Mai 2024
